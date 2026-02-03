@@ -1,32 +1,18 @@
-This repository contains materials, assignments, and code related to the CS-10A course.
+## 📘 CS-10A
 
-📂 Contents
+This repository contains materials, assignments, and code related to the **CS-10A** course.
 
-Source code examples
+### 📂 Contents
+- Source code examples
+- Practice tasks
+- Homework assignments
+- Additional learning materials
 
-Practice tasks
+### 🛠 Technologies
+- Programming Language: **Python**
+- Tools: Git, GitHub
 
-Homework assignments
-
-Additional learning materials
-
-🛠 Technologies
-
-Programming Language: Python
-
-Tools: Git, GitHub
-
-🚀 How to use
-
-Clone the repository:
-
-git clone https://github.com/Hovsepyan1/CS-10A.git
-
-
-Open the project in your preferred editor (VS Code recommended)
-
-Run and explore the code examples
-
-📌 Notes
-
-This repository is intended for educational purposes and personal practice.
+### 🚀 How to use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Hovsepyan1/CS-10A.git
