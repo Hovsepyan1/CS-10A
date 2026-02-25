@@ -239,15 +239,3 @@
 # w w+
 
 
-class dec:
-    def __init__(self, func):
-        def dunc(*args, **kwargs):
-            return func(*args, **kwargs)
-        
-    def __call__(self, *args, **kwds):
-        print("Aaa")
-@dec
-def foo():
-    print("hi")
-
-foo()
